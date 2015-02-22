@@ -12,10 +12,15 @@ Other fields names are constructed by one template: their names consist of:
 </ul>
 
 **tBodyAcc-mean()-X
+
 tBodyAcc-mean()-Y              
+
 tBodyAcc-mean()-Z
+
 tBodyAcc-std()-X
+
 tBodyAcc-std()-Y
+
 tBodyAcc-std()-Z
 tGravityAcc-mean()-X
 tGravityAcc-mean()-Y
