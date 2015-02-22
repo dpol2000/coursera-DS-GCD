@@ -1,8 +1,8 @@
 ## Codebook for run_analysis.R
 
-**subject** - a code of subject. Ranges from 1 to 30.
+**subject** - a subject's code. Ranges from 1 to 30.
 
-**activity** - activity type. An item of the set of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
+**activity** - activity type. Can be WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING.
 
 Other fields names are constructed by one template: their names consist of:
 <ul>

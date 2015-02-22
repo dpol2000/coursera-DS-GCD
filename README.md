@@ -8,7 +8,7 @@ After that, the script loads names of features, and test and train features data
 
 Then, it binds the data for subjects and activities into two dataframes, one for test data and another for train data. The script also sets label names for subject and activity fields.
 
-Since we need only means and standard deviation information, we add only these columns from features data frames.
+Since we want only means and standard deviation information, the script adds only those columns whose name contains "mean" or "std".
 
 After that, the script binds the test and the train dataframes into one, just adding the rows.
 
